@@ -41,6 +41,7 @@ const Home = () => {
           equipping them with the necessary tools and knowledge to excel in the digital
           era. By fostering a passion for technology, we aim to inspire the next generation
           of innovators and problem solvers, unlocking their potential to shape the future. 
+          Count on us to provide comprehensive support and guidance in navigating the ever-evolving tech landscape.
          
           </p>
         </div>
