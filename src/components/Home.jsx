@@ -37,9 +37,7 @@ const Home = () => {
           We are the leading tech company, dedicated to being your one and only solution
           for the tech problems you encounter on a daily basis. Our mission revolves around
           enhancing problem-solving abilities and nurturing coding skills in children. 
-          With our innovative solutions and expertise, we strive to empower young minds,
-          equipping them with the necessary tools and knowledge to excel in the digital
-          era. By fostering a passion for technology, we aim to inspire the next generation
+           By fostering a passion for technology in young minds, we aim to inspire the next generation
           of innovators and problem solvers, unlocking their potential to shape the future. 
           Count on us to provide comprehensive support and guidance in navigating the ever-evolving tech landscape.
          
