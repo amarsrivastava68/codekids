@@ -14,7 +14,7 @@ const Footer = () => {
           <a href="https://youtube.com/" target={"blank"}>
             Youtube
           </a>
-          <a href="https://instagram.com/amar__srivastava__" target={"blank"}>
+          <a href="https://instagram.com/amar_srivastava.js" target={"blank"}>
             Instagram
           </a>
           <a href="https://github.com/amarsrivastava68" target={"blank"}>
